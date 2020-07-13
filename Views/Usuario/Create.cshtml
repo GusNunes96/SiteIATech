@@ -1,0 +1,49 @@
+﻿@model IATech.Models.UsuarioModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Criação de Usuário</h2>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="UsuarioNome" class="control-label"></label>
+                <input asp-for="UsuarioNome" class="form-control" />
+                <span asp-validation-for="UsuarioNome" class="text-danger"></span><!-- essa linha mostra o erro caso ele ocorra "Erro de campo invalido ou vazio" -->
+            </div>
+
+            <div class="form-group">
+                <label asp-for="UsuarioEmail" class="control-label"></label>
+                <input asp-for="UsuarioEmail" class="form-control" />
+                <span asp-validation-for="UsuarioEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="UsuarioLogin" class="control-label"></label>
+                <input asp-for="UsuarioLogin" class="form-control" />
+                <span asp-validation-for="UsuarioLogin" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="UsuarioSenha" class="control-label"></label>
+                <input asp-for="UsuarioSenha" class="form-control" />
+                <span asp-validation-for="UsuarioSenha" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Cadastrar" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <!-- após o cadastro do usuário, irá se manter na mesma página -->
+    <a asp-action="Index">Voltar para lista de usuários</a>
+</div>
