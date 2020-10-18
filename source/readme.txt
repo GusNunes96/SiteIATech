@@ -4,4 +4,4 @@ codigo para usar com url na web
 ![alt text](http://url/to/img.png)
 
 codigo para usar como referencia dentro do repositorio
-(https://github.com/GusNunesDev/SiteIATech/tree/master/source/imagem/wireframe.png?raw=true)
+https://github.com/GusNunesDev/SiteIATech/tree/master/source/imagem/wireframe.png?raw=true
