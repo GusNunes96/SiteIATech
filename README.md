@@ -1,6 +1,4 @@
-## ⭐Site fictício, usado para um projeto da faculdade.
-
-## ⭐Este projeto foi utilizado Asp.Net Core, para criação de um site no modelo MVC.
+## ⭐Site fictício, usado para um projeto da faculdade. Neste projeto foi utilizado Asp.Net Core, para criação de um site no modelo MVC.
 
  # 1. Objetivo
 
