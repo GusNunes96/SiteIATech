@@ -6,9 +6,9 @@
 
   O projeto do curso de Tecnologia em Análise e Desenvolvimento de Sistemas tem como objetivo desenvolver um  trabalho interligando todas as matérias desenvolvidas durante o semestre, fazendo com que coloquemos em prática todo o conteúdo aprendido em sala de aula e indo além em busca de novos conhecimentos para que possamos incrementar ainda mais o trabalho. Desenvolvemos um site em ASP.net, contendo a interface que o usuário utilizará para ter o primeiro contato com a empresa, além de apresentar as funcionalidades do produto oferecido pela mesma e exibir a realidade sobre a AI Tech, que disponibiliza softwares de inteligência artificial para gerenciamento em linhas de produção e estoque de empresas.
 
-  ## 2. Requitos funcionais e não funcionais.
+  # 2. Requitos funcionais e não funcionais.
   
-  ## 2.1 Requisitos funcionais do sistema:
+ ## 2.1 Requisitos funcionais do sistema:
  
 ✔Mantém os dados dos clientes(Banco de Dados).
 
@@ -68,4 +68,27 @@ Para que possamos melhorar o desenvolvimento da nossa equipe e trabalharmos de f
 
   O tempo de todo o processo foi reduzido, fazendo com que conseguíssemos atender um número maior de clientes. Gerando uma integração maior entre as equipes do setor comercial e desenvolvimento, os atritos e desconfortos entre as equipes praticamente não “existem” mais, a comunicação melhorou e assim gerando um ambiente mais saudável de trabalho. O sucesso foi tanto que estamos avaliando a aplicação do processo em outras áreas operacionais.
   
+  # Wireframe da Pagina.
+  ![Wireframe](https://github.com/GusNunesDev/SiteIATech/blob/master/source/imagem/wireframe.png)
   
+Página index do projeto em Wireframe, foi utilizado o site Cacoo.com.
+
+  # Pagina inicial do Site.
+  ![Pagina inicial](https://github.com/GusNunesDev/SiteIATech/blob/master/source/imagem/index.png)
+  
+Pagina index do Site.
+
+  # Pagina de login no Site. 
+  ![Login no Site](https://github.com/GusNunesDev/SiteIATech/blob/master/source/imagem/LoginNoSite.png)
+  
+Pagina de Login do Site.
+
+   # Demonstração de Usuários Cadastrados.
+  ![Cadastrados](https://github.com/GusNunesDev/SiteIATech/blob/master/source/imagem/listaDeUsuario.png)
+  
+Pagina com demostração da tela de usuários cadastrados.
+
+  # Conexão com SQL Server.
+  ![Imagem do SQL Server](https://github.com/GusNunesDev/SiteIATech/blob/master/source/imagem/SqlServerDB.png)
+  
+Imagem da conexão com banco de dados via SQL Server.
