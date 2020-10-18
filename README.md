@@ -1,14 +1,14 @@
-⭐Site fictício, usado para um projeto da faculdade.
+## ⭐Site fictício, usado para um projeto da faculdade.
 
-⭐Este projeto foi utilizado Asp.Net Core, para criação de um site no modelo MVC.
+## ⭐Este projeto foi utilizado Asp.Net Core, para criação de um site no modelo MVC.
 
-  1. Objetivo
+ # 1. Objetivo
 
-O projeto do curso de Tecnologia em Análise e Desenvolvimento de Sistemas tem como objetivo desenvolver um  trabalho interligando todas as matérias desenvolvidas durante o semestre, fazendo com que coloquemos em prática todo o conteúdo aprendido em sala de aula e indo além em busca de novos conhecimentos para que possamos incrementar ainda mais o trabalho. Desenvolvemos um site em ASP.net, contendo a interface que o usuário utilizará para ter o primeiro contato com a empresa, além de apresentar as funcionalidades do produto oferecido pela mesma e exibir a realidade sobre a AI Tech, que disponibiliza softwares de inteligência artificial para gerenciamento em linhas de produção e estoque de empresas.
+  O projeto do curso de Tecnologia em Análise e Desenvolvimento de Sistemas tem como objetivo desenvolver um  trabalho interligando todas as matérias desenvolvidas durante o semestre, fazendo com que coloquemos em prática todo o conteúdo aprendido em sala de aula e indo além em busca de novos conhecimentos para que possamos incrementar ainda mais o trabalho. Desenvolvemos um site em ASP.net, contendo a interface que o usuário utilizará para ter o primeiro contato com a empresa, além de apresentar as funcionalidades do produto oferecido pela mesma e exibir a realidade sobre a AI Tech, que disponibiliza softwares de inteligência artificial para gerenciamento em linhas de produção e estoque de empresas.
 
-  2. Requitos funcionais e não funcionais
+  ## 2. Requitos funcionais e não funcionais.
   
- 2.1 Requisitos funcionais do sistema:
+  ## 2.1 Requisitos funcionais do sistema:
  
 ✔Mantém os dados dos clientes(Banco de Dados).
 
@@ -21,7 +21,7 @@ O projeto do curso de Tecnologia em Análise e Desenvolvimento de Sistemas tem c
 ✔Disponibilidade de várias formas de contato para que os clientes futuros, possam se comunicar com nossa equipe, e passe suas experiências para que possamos identificar a melhor solução para o cliente.
 
 
-  2.2 Requisitos não funcionais do sistema:
+ ## 2.2 Requisitos não funcionais do sistema:
 
 🚩Site criado seguindo o modelo MVC, com fácil manutenção futura utilizando C# no back-end, e HTML, CSS e Bootstrap no front-end.
 
@@ -29,9 +29,9 @@ O projeto do curso de Tecnologia em Análise e Desenvolvimento de Sistemas tem c
 
 🚩Site armazena senha e login de usuários, para futura implementação da função de login.
 
-  3. Processos de negócios:
+ # 3. Processos de negócios:
   
-  🔍Analise 
+ ## 🔍Analise 
 
   Iremos implantar o processo BPM nosso setor comercial, a fim de melhorar a comunicação com o nosso cliente e com o setor de desenvolvimento da empresa que lida diariamente com o setor de vendas.
 
@@ -40,13 +40,13 @@ O projeto do curso de Tecnologia em Análise e Desenvolvimento de Sistemas tem c
   Após o escopo é feita uma reunião com o cliente para alinhamento do que foi pedido e, é aí que encontrávamos divergências na comunicação e para evitar conflitos com o cliente e até dentro da empresa a implementação desse processo se torna necessário.
 Para que possamos melhorar o desenvolvimento da nossa equipe e trabalharmos de forma mais alinhada
 
-  📝Modelagem 
+ ## 📝Modelagem 
 
   Para que possamos melhorar esse processo e evitar conflitos pensamos em criar alguns layouts para facilitar na hora da escolha do cliente caso ele não tem muita coisa em mente, porém também fazemos sob medida do jeito que ele desejar.
 
   Quando o cliente decidir fechar negócio em vez de ele combinar tudo com o setor de vendas, teremos alguém do setor de desenvolvimento para ajudar ele a “desenhar” seu projeto e nesse caso o setor de vendas ficaria somente com a negociação e fechamento de valores.
 
-  💻Simulação
+ ## 💻Simulação
 
   1º - O primeiro contato é com o setor de vendas, o cliente entra em contato com o setor comercial que colhe os dados dos clientes e o que ele deseja.
 
@@ -56,14 +56,16 @@ Para que possamos melhorar o desenvolvimento da nossa equipe e trabalharmos de f
 
   4ª – Essa é a fase final antes do projeto se torna real, então é feita uma reunião com o cliente, e se tiver tudo certo é só finalizar o projeto.
   
-  ▶Execução
+ ## ▶Execução
  
   Como toda mudança no começa ainda ocorre algumas falhas, porém com o tempo e dedicação de toda a equipe ocorreu tudo certo, e o problema foi resolvido. 
 
-  👨‍💻Monitoramento
+ ## 👨‍💻Monitoramento
 
   Todo o processo é acompanhado de perto pelo nosso gerente de projetos, que mesmo após implantação do processo BPM segue monitorando para que possamos sempre obter o melhor resultado.
 
-  🧠Melhoria
+ ## 🧠Melhoria
 
   O tempo de todo o processo foi reduzido, fazendo com que conseguíssemos atender um número maior de clientes. Gerando uma integração maior entre as equipes do setor comercial e desenvolvimento, os atritos e desconfortos entre as equipes praticamente não “existem” mais, a comunicação melhorou e assim gerando um ambiente mais saudável de trabalho. O sucesso foi tanto que estamos avaliando a aplicação do processo em outras áreas operacionais.
+  
+  
